@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vistara-ai/static/css/main.9d2110e5.css",
-    "main.js": "/vistara-ai/static/js/main.fa339b65.js",
+    "main.css": "/vistara-ai/static/css/main.e6c13ad2.css",
+    "main.js": "/vistara-ai/static/js/main.7e9811e3.js",
     "static/js/453.ed3810f9.chunk.js": "/vistara-ai/static/js/453.ed3810f9.chunk.js",
     "index.html": "/vistara-ai/index.html",
-    "main.9d2110e5.css.map": "/vistara-ai/static/css/main.9d2110e5.css.map",
-    "main.fa339b65.js.map": "/vistara-ai/static/js/main.fa339b65.js.map",
+    "main.e6c13ad2.css.map": "/vistara-ai/static/css/main.e6c13ad2.css.map",
+    "main.7e9811e3.js.map": "/vistara-ai/static/js/main.7e9811e3.js.map",
     "453.ed3810f9.chunk.js.map": "/vistara-ai/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d2110e5.css",
-    "static/js/main.fa339b65.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7e9811e3.js"
   ]
 }
